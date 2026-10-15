@@ -10,5 +10,8 @@ average profile belike:
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![](https://streak-stats.demolab.com/?user=kaimestry&theme=dark&hide_border=false) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
